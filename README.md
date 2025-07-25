@@ -35,6 +35,9 @@ ste projeto está licenciado nos termos da licença MIT. Consulte o arquivo
 `LICENSE` para mais informações sobre as condições de uso e redistribuição.
 
 ###Autor
-Guidroid (contato@guidroid.com.br)
+Guidroid 
+(contato@guidroid.com.br)
+
+
 ![an old rock!](Captura_de_tela_de_2025-06-18_16-33-58-removebg-preview%20(1).png)
 
