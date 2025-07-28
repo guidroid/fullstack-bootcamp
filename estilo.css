@@ -1,0 +1,32 @@
+/* Set the background and base font */
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+/* All paragraphs have vertical margins */
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* Remove underline from links */
+a {
+  text-decoration: none;
+}
+
+/* Style the business card container */
+.business-card {
+  width: 300px;
+  background-color: #f5f5dc; /* light beige background */
+  padding: 20px;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+/* Make profile image responsive */
+.profile-image {
+  max-width: 100%;
+}
+
