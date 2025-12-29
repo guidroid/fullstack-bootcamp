@@ -1,6 +1,6 @@
 <?php
 /**
- * The base configuration for WordPress
+ * The base configuration for WordPresssfgsfddsg
 
  * and fill in the values.sdfgsfdds
  *sfsdfgs
