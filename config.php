@@ -5,7 +5,7 @@
  * and fill in the values.sdfgsfdds
  *sfsdfgssdfgsfgsdsdfsfgsfsfdgsdfsdf
  * This file contains the following configurations:
- *
+ *sdfgswfgsfg
  * * Database settingssfsfdsgsfgsdfdgsdgs
  * * Secret keyssdfgsfds
  * * Database table prefixdsfgsgsf
