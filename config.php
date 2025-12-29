@@ -8,7 +8,7 @@
  *
  * * Database settings
  * * Secret keys
- * * Database table prefix
+ * * Database table prefixdsfgsgsf
  * * ABSPATH
  *
  * @link https://developer.wordpress.org/advanced-administration/wordpress/wp-config/
