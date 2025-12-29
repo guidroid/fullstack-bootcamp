@@ -7,7 +7,7 @@
  * This file contains the following configurations:
  *
  * * Database settings
- * * Secret keys
+ * * Secret keyssdfgsfds
  * * Database table prefixdsfgsgsf
  * * ABSPATH
  *
