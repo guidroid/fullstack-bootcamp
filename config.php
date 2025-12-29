@@ -3,7 +3,7 @@
  * The base configuration for WordPresssfgsfddsg
 
  * and fill in the values.sdfgsfdds
- *sfsdfgssdfgsfgsdsdfsfgsfsfdgsdfsdf
+ *sfsdfgssdfgsfgsdsdfsfgsfsfdgsdfsdfsfdsfdsdfgds
  * This file contains the following configurations:
  *sdfgswfgsfg
  * * Database settingssfsfdsgsfgsdfdgsdgs
