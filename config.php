@@ -1,16 +1,6 @@
 <?php
 /**
- * The base configuration for WordPresssfgsfddsg
-
- * and fill in the values.sdfgsfddssdfgsfgsdfgdsfg
- *sfsdfgssdfgsfgsdsdfsfgsfsfdgsdfsdfsfdsfdsdfgds
- * This file contains the following configurations:sfgsdfgsdgfsdgf
- *sdfgswfgsfg
- * * Database settingssfsfdsgsfgsdfdgsdgs
- * * Secret keyssdfgsfds
- * * Database table prefixdsfgsgsf
- * * ABSPATH
- *
+ * The base configuration for WordPresss
  * @link https://developer.wordpress.org/advanced-administration/wordpress/wp-config/
  *
  * @package WordPress
