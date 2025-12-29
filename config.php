@@ -2,7 +2,7 @@
 /**
  * The base configuration for WordPress
 
- * and fill in the values.
+ * and fill in the values.sdfgsfdds
  *
  * This file contains the following configurations:
  *
